@@ -24,16 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: "2020-11-01"
-  date_start: "2020-12-01"
+  date_end: "2020-12-01"
+  date_start: "2020-11-01"
   description: "Used NLP related method like word2vec, skip-gram, LSTM to multi-classify tweet content"
   organization: "Machine Learning course at JHU"
   organization_url: 
   title: Detector of offensive language and hate speech for tweet content
   url: 
 - certificate_url: 
-  date_end: "2020-11-01"
-  date_start: "2020-12-01"
+  date_end: "2020-12-01"
+  date_start: "2020-11-01"
   description: "Made a series of improvements for existing k-means algorithm such as coordinate transormation to help us find the center line of a given aorta"
   organization: "Data Science course at JHU"
   organization_url: 
@@ -48,8 +48,8 @@ item:
   title: LMS Prototype of Student Performance Predication Model 
   url: 
 - certificate_url: 
-  date_end: "2018-03-01"
-  date_start: "2018-05-01"
+  date_end: "2018-05-01"
+  date_start: "2018-03-01"
   description: "Made the implementation of the system, which was mainly based on the training of a large number of sample pictures by convolutional neural networks. Enabled       automatic coloring or restoration of old photos, as well as black and white comics. This system had a certain commercial value. Undertook conducting market demand research of   the platform and completing the front-end interface implementation."
   organization: "NLP Lab at SWU, Supervisor: Li Li"
   organization_url: 

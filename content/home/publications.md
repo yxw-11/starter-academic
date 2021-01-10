@@ -1,29 +1,29 @@
 ---
-widget: publications
+# An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 90
 
-title: Publications
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Publications'
 subtitle:
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-publications:
-  - title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
-    date: '2019-06-01'
-    authors:
-    - Yuxiang Wang
-    publication_types:
-    - '2'
-    abstract: 'released on EI'
-    featured: false
-    publication: '*IEEE ICRIS International Conference*'
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+items:
+- certificate_url: 
+  date_end: 
+  date_start: "2019-06-01"
+  description: 
+  organization: *IEEE ICRIS International Conference*
+  organization_url: 
+  title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
+  url: 
   
 ---

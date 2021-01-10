@@ -29,7 +29,7 @@ experience:
     date_start: '2019-07-01'
     date_end: '2019-08-01'
     description: |2-
-        - Studied the processing methods (ADW through sql developer) and data visualization of big data (Oracle DV) 
+        - Studied the processing methods ADW through sql developer and data visualization of big data Oracle DV 
         - Participated in the data analysis of the road traffic accident details in a certain area in 2018 and the registration data analysis of a certain hospital in Chengdu
     - title: University-sponsored Scholarly Exchange Student
     company: Auckland University

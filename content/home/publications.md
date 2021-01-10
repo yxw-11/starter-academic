@@ -16,7 +16,7 @@ subtitle:
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-items:
+item:
 - certificate_url: 
   date_end: 
   date_start: "2019-06-01"
@@ -25,5 +25,4 @@ items:
   organization_url: 
   title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
   url: 
-  
 ---

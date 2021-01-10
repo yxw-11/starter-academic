@@ -47,4 +47,28 @@ item:
   organization_url: 
   title: Development of Machine Dictionary for Natural language Processing
   url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2019-04-12"
+  description: "Patent Number: 201930165163.9"
+  organization: "National Intellectual Property Administration, PRC"
+  organization_url: 
+  title: Appearance Invention Patent for Computer Monitor 
+  url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2017-11-01"
+  description: "Software Copyright, Author:Yuxiang Wang"
+  organization: "National Copyright Administration, PRC"
+  organization_url: 
+  title: Student self-management system V1.0 
+  url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2019-02-25"
+  description: "Software Copyright, Author:Yuxiang Wang, Zhengtong Tan, Zipeng Li"
+  organization: "National Copyright Administration, PRC"
+  organization_url: 
+  title: Jianzhisheng College Student Part-time Job System V1.0
+  url: 
 ---

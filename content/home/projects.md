@@ -47,4 +47,20 @@ item:
   organization_url: 
   title: LMS Prototype of Student Performance Predication Model 
   url: 
+- certificate_url: 
+  date_end: "2018-05-01"
+  date_start: "2018-03-01"
+  description: "Made the implementation of the system based on CNN technology with certain commercial value"
+  organization: "NLP Lab at SWU, Supervisor: Li Li"
+  organization_url: 
+  title: Intelligent Lighting——Automatic Coloring and Restoration System for Old Photos  
+  url: ""
+- certificate_url: 
+  date_end: "2018-01-01"
+  date_start: "2017-08-01"
+  description: "Individual work. Used python crawler technology and NLP related methods to process text information"
+  organization: "NLP Lab at SWU"
+  organization_url: 
+  title: Search Extension Project 
+  url: 
 ---

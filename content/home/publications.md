@@ -27,7 +27,7 @@ item:
   date_end: 
   date_start: "2019-06-01"
   description: "author: Yuxiang Wang released on EI"
-  organization: *IEEE ICRIS International Conference*
+  organization: IEEE ICRIS International Conference
   organization_url: 
   title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
   url: 
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2019-05-01"
   description: "author: Yuxiang Wang released on ISTP/CPCI"
-  organization: *ICMMCT 2019 International Conference*
+  organization: ICMMCT 2019 International Conference
   organization_url: 
   title: Prediction of PM2.5 Concentration in Chengdu Based on Improved BP Neural Network
   url: ""

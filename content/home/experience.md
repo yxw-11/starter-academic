@@ -31,16 +31,16 @@ experience:
     description: |2-
         - Studied the processing methods ADW through sql developer and data visualization of big data Oracle DV
         - Participated in the data analysis of the road traffic accident details in a certain area in 2018 and the registration data analysis of a certain hospital in Chengdu
-  - title: Visiting Student Researcher
-    company: Teresa Head-Gordon Group, University of California, Berkeley
-    company_url: https://thglab.berkeley.edu/
-    location: California, United States
-    date_start: '2019-12-16'
-    date_end: '2020-03-07'
+  - title: University-sponsored Scholarly Exchange Student
+    company: Auckland University
+    company_url: https://www.auckland.ac.nz/en.html
+    location: Auckland, New Zealand
+    date_start: '2018-08-01'
+    date_end: '2018-09-01'
     description: |2-
-        - Developed an extended Lagrangian scheme together with Langevin thermostat for fluctuating charges
-        - Eliminated the iterative charge determination, the main bottleneck in reactive force fields like ReaxFF, and accurately reproduced statistic and dynamic properties
-        - A paper is published on this topic, see [the publication section](#publications).
+        - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining
+        - Participated in the project team about handwritten digit recognition
+        - Showed our research results well and won the honor of the excellent team
   - title: Exchange Student Researcher
     company: Daniel Neuhauser Group, University of California, Los Angeles
     company_url: http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html

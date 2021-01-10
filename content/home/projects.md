@@ -1,48 +1,66 @@
 ---
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+# An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 90
 
-title: Projects
-subtitle: ''
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Projects'
+subtitle:
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: 
+  date_end: "2020-11-01"
+  date_start: "2020-12-01"
+  description: "Used NLP related method like word2vec, skip-gram, LSTM to multi-classify tweet content"
+  organization: "Machine Learning course at JHU"
+  organization_url: 
+  title: Detector of offensive language and hate speech for tweet content
+  url: 
+- certificate_url: 
+  date_end: "2020-11-01"
+  date_start: "2020-12-01"
+  description: "Made a series of improvements for existing k-means algorithm such as coordinate transormation to help us find the center line of a given aorta"
+  organization: "Data Science course at JHU"
+  organization_url: 
+  title: Centerline Extraction in Tubular Structure using a Clustering-based Approach
+  url: 
+- certificate_url: 
+  date_end:"2019-01-01"
+  date_start: "2018-09-01"
+  description: "Applied the ability of processing and analyzing big data to analyze students’ scores, class times and failure rates, and the data mainly came from a platform data that already running in a certain university in Chongqing"
+  organization: "NLP Lab at SWU, Supervisor: Li Li"
+  organization_url: 
+  title: LMS Prototype of Student Performance Predication Model 
+  url: 
+- certificate_url: 
+  date_end: "2018-03-01"
+  date_start: "2018-05-01"
+  description: "Made the implementation of the system, which was mainly based on the training of a large number of sample pictures by convolutional neural networks. Enabled automatic coloring or restoration of old photos, as well as black and white comics. This system had a certain commercial value. Undertook conducting market demand research of the platform and completing the front-end interface implementation."
+  organization: "NLP Lab at SWU, Supervisor: Li Li"
+  organization_url: 
+  title: Intelligent Lighting——Automatic Coloring and Restoration System for Old Photos  
+  url: ""
+- certificate_url: 
+  date_end: "2018-01-01"
+  date_start: "2017-08-01"
+  description: "Individual Work, Supervisor: Li Li"
+  organization: "NLP Lab at SWU"
+  organization_url: 
+  title: Search Extension Project 
+  url: 
 ---

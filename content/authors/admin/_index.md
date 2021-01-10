@@ -6,7 +6,7 @@ title: Yuxiang Wang
 superuser: true
 
 # Role/position/tagline
-role: Master student of Data Science
+role: Graduate student of Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:

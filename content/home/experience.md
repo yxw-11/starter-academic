@@ -36,12 +36,14 @@ experience:
     
     - title: University-sponsored Scholarly Exchange Student
     company: Auckland University
+    company_url: ''
+    location: Auckland
     date_start: '2018-08-01'
     date_end: '2018-09-01'
     description: |2-
-    - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining, etc.
-    - Participated in the project team about handwritten digit recognition. Used linear fitting, logistic regression and kernel regression by R language platform to extract key pixel points to achieve handwritten digit recognition, and had high prediction accuracy.
-    - Showed our research results well and won the honor of the excellent team.
+         - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining, etc.
+         - Participated in the project team about handwritten digit recognition. Used linear fitting, logistic regression and kernel regression by R language platform to extract key pixel points to achieve handwritten digit recognition, and had high prediction accuracy.
+        - Showed our research results well and won the honor of the excellent team.
    
   - title: Internship
     company: Chengdu Calabar Information Technology Corp., Ltd. 
@@ -50,14 +52,16 @@ experience:
     date_start: '2018-07-01'
     date_end: '2018-07-31'
     description: |2-
-     - description: Studied related technologies of natural language processing in the development department. 
-    
+        - description: Studied related technologies of natural language processing in the development department. 
     
   - title: Campus Involvement
   company: Southwest University
+  company_url: ''
+  location: Chongqing, China
   date_start: '2016-09-01'
   date_end: '2018-06-01'
   description: |2-
-  - Director and Core Member, Students’ Association Union of SWU
-  - Core Member, Students Union of SWU
+      - Director and Core Member, Students’ Association Union of SWU
+      - Core Member, Students Union of SWU
+    
 ---

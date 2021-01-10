@@ -39,7 +39,7 @@ item:
   organization_url: 
   title: Centerline Extraction in Tubular Structure using a Clustering-based Approach
   url: 
-  - certificate_url: 
+- certificate_url: 
   date_end:"2019-01-01"
   date_start: "2018-09-01"
   description: "Applied the ability of processing and analyzing big data to analyze students’ scores, class times and failure rates for a university in Chongqing"

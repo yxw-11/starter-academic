@@ -41,22 +41,21 @@ experience:
         - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining
         - Participated in the project team about handwritten digit recognition
         - Showed our research results well and won the honor of the excellent team
-  - title: Exchange Student Researcher
-    company: Daniel Neuhauser Group, University of California, Los Angeles
-    company_url: http://www.chem.ucla.edu/dept/Faculty/dxn/pages/home.html
-    location: California, United States
-    date_start: '2019-09-23'
-    date_end: '2019-12-15'
+  - title: Internship
+    company: Chengdu Calabar Information Technology Corp., Ltd.
+    company_url: http://www.cdcalabar.com/
+    location: Chengdu, China
+    date_start: '2019-07-01'
+    date_end: '2019-07-31'
     description: |2-
-        - Introduced a screened potential correction within the framework of time-dependent Bethe-Salpeter equation
-        - Improved the accuracy of optical properties
-  - title: Undergraduate Student Researcher
-    company: Jian Liu Group, Peking University
-    company_url: http://jianliugroup.pku.edu.cn/
-    location: Beijing, China
-    date_start: '2018-07-01'
-    date_end: '2020-07-01'
+        - Studied related technologies of natural language processing in the development department
+  - title: Undergraduate Campus Involvement
+    company: Southwest University
+    company_url: http://www.swu.edu.cn/
+    location: Chongqing, China
+    date_start: '2016-09-01'
+    date_end: '2018-06-01'
     description: |2-
-        - Analyzed integrators in path-integral molecular dynamics with symplectic geometry and discrete-time Lyapunov equations
-        - Designed a novel sampling scheme that can obtain more accurate statistics
+        - Director and Core Member, Students’ Association Union of SWU
+        - Core Member, Students Union of SWU
 ---

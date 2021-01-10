@@ -40,8 +40,8 @@ item:
   title: Outstanding Graduate of Southwest University
   url: ""
 - certificate_url: 
-  date_end: "2016-09-01"
-  date_start: "2017-09-01"
+  date_end: "2017-09-01"
+  date_start: "2016-09-01"
   description: 
   organization: Southwest University, China
   organization_url: 
@@ -56,8 +56,8 @@ item:
   title: Study on Heat Transfer Model of Multilayer Insulation Clothing 
   url: 
 - certificate_url: 
-  date_end: "2018-05-01"
-  date_start: "2018-03-01"
+  date_end: "2018-07-01"
+  date_start: "2018-06-01"
   description: "Won 2nd Prize in Chongqing Database Programming Competition"
   organization: Chongqing Computer Society
   organization_url: 
@@ -66,7 +66,7 @@ item:
 - certificate_url: 
   date_end: "2018-05-01"
   date_start: "2018-03-01"
-  description: "Won 1st Prize of Chongqing Province in China National College Student "Innovation, Originality and Entrepreneurship" Challenge"
+  description: "Won 1st Prize of Chongqing Province in China National College Student Innovation, Originality and Entrepreneurship Challenge"
   organization: Chongqing Higher Education Association
   organization_url: 
   title: Intelligent Lighting——Automatic Coloring and Restoration System for Old Photos 

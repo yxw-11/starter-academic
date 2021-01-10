@@ -39,28 +39,4 @@ item:
   organization_url: 
   title: Centerline Extraction in Tubular Structure using a Clustering-based Approach
   url: 
-- certificate_url: 
-  date_end:"2019-01-01"
-  date_start: "2018-09-01"
-  description: "Applied the ability of processing and analyzing big data to analyze students’ scores, class times and failure rates, and the data mainly came from a platform       data that already running in a certain university in Chongqing"
-  organization: "NLP Lab at SWU, Supervisor: Li Li"
-  organization_url: 
-  title: LMS Prototype of Student Performance Predication Model 
-  url: 
-- certificate_url: 
-  date_end: "2018-05-01"
-  date_start: "2018-03-01"
-  description: "Made the implementation of the system, which was mainly based on the training of a large number of sample pictures by convolutional neural networks. Enabled       automatic coloring or restoration of old photos, as well as black and white comics. This system had a certain commercial value. Undertook conducting market demand research of   the platform and completing the front-end interface implementation."
-  organization: "NLP Lab at SWU, Supervisor: Li Li"
-  organization_url: 
-  title: Intelligent Lighting——Automatic Coloring and Restoration System for Old Photos  
-  url: ""
-- certificate_url: 
-  date_end: "2018-01-01"
-  date_start: "2017-08-01"
-  description: "Individual Work, Supervisor: Li Li"
-  organization: "NLP Lab at SWU"
-  organization_url: 
-  title: Search Extension Project 
-  url: 
 ---

@@ -35,12 +35,13 @@ experience:
         * Participated in the data analysis of the road traffic accident details in a certain area in 2018 and the registration data analysis of a certain hospital in Chengdu.
     
     - title: University-sponsored Scholarly Exchange Student
-    University: Auckland University
+    company: Auckland University
     date_start: '2018-08-01'
     date_end: '2018-09-01'
-    * Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining, etc.
-    * Participated in the project team about handwritten digit recognition. Used linear fitting, logistic regression and kernel regression by R language platform to extract key pixel points to achieve handwritten digit recognition, and had high prediction accuracy.
-    * Showed our research results well and won the honor of the excellent team.
+    description: |2-
+    - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining, etc.
+    - Participated in the project team about handwritten digit recognition. Used linear fitting, logistic regression and kernel regression by R language platform to extract key pixel points to achieve handwritten digit recognition, and had high prediction accuracy.
+    - Showed our research results well and won the honor of the excellent team.
    
   - title: Internship
     company: Chengdu Calabar Information Technology Corp., Ltd. 
@@ -48,13 +49,15 @@ experience:
     location: Chengdu, China
     date_start: '2018-07-01'
     date_end: '2018-07-31'
-    description: Studied related technologies of natural language processing in the development department. 
+    description: |2-
+     - description: Studied related technologies of natural language processing in the development department. 
     
     
   - title: Campus Involvement
-  University: Southwest University
+  company: Southwest University
   date_start: '2016-09-01'
   date_end: '2018-06-01'
-  * Director and Core Member, Students’ Association Union of SWU
-  * Core Member, Students Union of SWU
+  description: |2-
+  - Director and Core Member, Students’ Association Union of SWU
+  - Core Member, Students Union of SWU
 ---

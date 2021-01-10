@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
+title: 'Publications'
 subtitle:
 
 # Date format
@@ -25,42 +25,26 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: 
-  date_start: "2020-09-01"
-  description: 
-  organization: Peking University
+  date_start: "2019-06-01"
+  description: "author: Yuxiang Wang released on EI"
+  organization: *IEEE ICRIS International Conference*
   organization_url: 
-  title: Pacemaker to Merit Student & Wusi University Scholarship (Top 1%)
+  title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
   url: 
-- certificate_url: http://en.mcm.edu.cn/html_en/node/f343840d6177d436255747b0e544b0aa.html
+- certificate_url: 
   date_end: ""
-  date_start: "2019-12-01"
-  description: ""
-  organization: China Society for Industrial and Applied Mathematics
-  organization_url: http://en.mcm.edu.cn/
-  title: National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling
+  date_start: "2019-05-01"
+  description: "author: Yuxiang Wang released on ISTP/CPCI"
+  organization: *ICMMCT 2019 International Conference*
+  organization_url: 
+  title: Prediction of PM2.5 Concentration in Chengdu Based on Improved BP Neural Network
   url: ""
 - certificate_url: 
   date_end: 
-  date_start: "2019-09-01"
-  description: 
-  organization: Peking University
+  date_start: "2019-02-01"
+  description: "author: Yuxiang Wang ISSN 1003-9767"
+  organization: China Computer & Communication
   organization_url: 
-  title: Pacemaker to Merit Student & National Scholarship (Top 1%)
-  url: 
-- certificate_url: 
-  date_end: 
-  date_start: "2019-05-01"
-  description: 
-  organization: Peking University Education Abroad Program
-  organization_url: 
-  title: Wanglaoji Scholarship
-  url: 
-- certificate_url: 
-  date_end: 
-  date_start: "2018-09-01"
-  description: 
-  organization: Peking University
-  organization_url: 
-  title: Merit Student & National Scholarship (Top 1%)
+  title: Development of Machine Dictionary for Natural language Processing
   url: 
 ---

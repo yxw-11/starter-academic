@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: "2021-04-01"
-  date_start: "2021-05-07"
+  date_end: "2021-05-07"
+  date_start: "2021-04-01"
   description: "Fine tuned the pre-trained BERT model and add additional layers to evaluate the performance of detection. Also do keywords evaluation through our best model."
   organization: "Deep Learning course at JHU"
   organization_url: 

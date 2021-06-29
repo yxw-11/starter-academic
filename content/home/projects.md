@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2021-08-15"
+  date_start: "2021-06-01"
+  description: "Specialized in sub-field of CS field papers and designed our own annotation scheme. Pre-trained BERT-based model using IEEE corpus and explored other deep learning models, for example, XLNET and GPT-3 to further improve the performance of existing models."
+  organization: "IEEE and JHU"
+  organization_url: 
+  title: Named Entity Recognition on IEEE Xplore scholarly documents
+  url: 
+- certificate_url: 
   date_end: "2021-05-07"
   date_start: "2021-04-01"
   description: "Fine tuned the pre-trained BERT model and add additional layers to evaluate the performance of detection. Also do keywords evaluation through our best model."

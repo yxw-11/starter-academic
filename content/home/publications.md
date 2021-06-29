@@ -23,6 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+item:
+- certificate_url: 
+  date_end: 
+  date_start: "2021-06-26"
+  description: "author: Yuxiang Wang; Yongheng Zhang; Xuebo Li; Xinyao Yu(submitted)"
+  organization: "*ICONIP 2021 Conference*"
+  organization_url: 
+  title: COVID-19 Fake News Detection Using Bidirectional Encoder Representations from Transformers Based Models
+  url:
+- certificate_url: 
+  date_end: 
+  date_start: "2021-04-20"
+  description: "author: Weiwei Wang; Jinghui Cai; Jiali Xu; Yuxiang Wang; Yulin Zou(submitted)"
+  organization: "*Soft Computing(SOCO)*"
+  organization_url: 
+  title: Prediction of the COVID-19 Infectivity and the Sustainable Impact on Public Health under Deep Learning Algorithm
+  url:
 - certificate_url: 
   date_end: 
   date_start: "2019-06-01"

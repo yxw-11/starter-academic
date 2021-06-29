@@ -47,7 +47,7 @@ item:
   organization: "*IEEE ICRIS International Conference*"
   organization_url: 
   title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
-  url: 
+  url: "https://ieeexplore.ieee.org/document/8806324"
 - certificate_url: 
   date_end: ""
   date_start: "2019-05-01"
@@ -55,7 +55,7 @@ item:
   organization: "*ICMMCT 2019 International Conference*"
   organization_url: 
   title: Prediction of PM2.5 Concentration in Chengdu Based on Improved BP Neural Network
-  url: ""
+  url: "http://clausiuspress.com/conferences/AEASR/ICMMCT%202019/ICMMCT020.pdf"
 - certificate_url: 
   date_end: 
   date_start: "2019-02-01"

@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2021-08-15"
   date_start: "2021-06-01"
-  description: "Specialized in sub-field of CS field papers and designed our own annotation scheme. Pre-trained BERT-based model using IEEE corpus and explored other deep learning models, for example, XLNET and GPT-3 to further improve the performance of existing models."
+  description: "Specialized in abstracts within sub-fields of the CS field and designed our own annotation scheme; Pre-trained BERT-based model using IEEE corpus and explored other deep learning models, for example, XLNET and GPT-3 to further improve the performance of existing models; Explored the CRF task as a sub-project using the SetSimilarity plus Bert-based embedding approach"
   organization: "IEEE and JHU"
   organization_url: 
   title: Named Entity Recognition on IEEE Xplore scholarly documents
@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   date_end: "2021-05-07"
   date_start: "2021-04-01"
-  description: "Fine tuned the pre-trained BERT model and add additional layers to evaluate the performance of detection. Also do keywords evaluation through our best model."
+  description: "Fine-tuned the pre-trained BERT model and add additional layers to evaluate the performance of detection; Did keywords evaluation through our best model"
   organization: "Deep Learning course at JHU"
   organization_url: 
   title: COVID-19 Fake News Detection Using BERT
@@ -58,7 +58,8 @@ item:
 - certificate_url: 
   date_end: "2019-01-01"
   date_start: "2018-09-01"
-  description: "Applied the ability of processing and analyzing big data to analyze students’ scores, class times and failure rates for a university in Chongqing"
+  description: "Applied the ability of processing and analyzing big data (included data mining, multiple linear regression and correlation
+analysis, etc.) to analyze students’ scores, class times and failure rates for a university in Chongqing"
   organization: "NLP Lab at SWU, Supervisor: Li Li"
   organization_url: 
   title: LMS Prototype of Student Performance Predication Model 
@@ -74,7 +75,7 @@ item:
 - certificate_url: 
   date_end: "2018-01-01"
   date_start: "2017-08-01"
-  description: "Individual work. Used python crawler technology and NLP related methods to process text information"
+  description: "Individual work. Used python crawler technology and NLP related methods (word segmentation, doc2vec, etc.) to process text information"
   organization: "NLP Lab at SWU"
   organization_url: 
   title: Search Extension Project 

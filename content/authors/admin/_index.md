@@ -65,4 +65,4 @@ highlight_name: false
 Yuxiang Wang graduated from Southwest University (China) with a bachelor's degree in computer science and technology. During the undergraduate study period, he had good grades, won many awards in different competitions and obtained scholarships for three times. Currently he studies as a graduate student of data science at Johns Hopkins University.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Yuxiang Wang_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Yuxiang Wang_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

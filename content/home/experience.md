@@ -31,6 +31,7 @@ experience:
     description: |2-
         - Studied the processing methods ADW through sql developer and data visualization of big data Oracle DV
         - Participated in the data analysis of the road traffic accident details in a certain area in 2018 and the registration data analysis of a certain hospital in Chengdu
+        - Completed the above two projects and made the analysis reports for the relevant companies
   - title: University-sponsored Scholarly Exchange Student
     company: Auckland University
     company_url: https://www.auckland.ac.nz/en.html
@@ -38,17 +39,19 @@ experience:
     date_start: '2018-08-01'
     date_end: '2018-09-01'
     description: |2-
-        - Studied some computer-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining
-        - Participated in the project team about handwritten digit recognition
-        - Showed our research results well and won the honor of the excellent team
+        - Studied some CS-related courses in the Department of Computer and Statistics of the University of Auckland, including R language data analysis, data mining
+        - Participated in the project team about handwritten digit recognition (won the honor of the excellent team)
+        - Used three methods to solve related problems, which were linear fitting, logistic regression and kernel regression by R
+language platform with high prediction accuracy
   - title: Internship
     company: Chengdu Calabar Information Technology Corp., Ltd.
     company_url: http://www.cdcalabar.com/
     location: Chengdu, China
-    date_start: '2019-07-01'
-    date_end: '2019-07-31'
+    date_start: '2018-07-01'
+    date_end: '2018-08-01'
     description: |2-
         - Studied related technologies of natural language processing in the development department
+        - Participated in the establishment of the knowledge graph system framework in the department
   - title: Undergraduate Campus Involvement
     company: Southwest University
     company_url: http://www.swu.edu.cn/

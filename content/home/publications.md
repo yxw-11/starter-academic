@@ -27,7 +27,7 @@ item:
 - certificate_url: 
   date_end: 
   date_start: "2021-06-26"
-  description: "author: Yuxiang Wang; Yongheng Zhang; Xuebo Li; Xinyao Yu(submitted)"
+  description: "Author: Yuxiang Wang; Yongheng Zhang; Xuebo Li; Xinyao Yu(submitted)"
   organization: "*ICONIP 2021 Conference*"
   organization_url: 
   title: COVID-19 Fake News Detection Using Bidirectional Encoder Representations from Transformers Based Models
@@ -35,7 +35,7 @@ item:
 - certificate_url: 
   date_end: 
   date_start: "2021-04-20"
-  description: "author: Weiwei Wang; Jinghui Cai; Jiali Xu; Yuxiang Wang; Yulin Zou"
+  description: "Author: Weiwei Wang; Jinghui Cai; Jiali Xu; Yuxiang Wang; Yulin Zou (released on SCI)"
   organization: "*Soft Computing(SOCO)*"
   organization_url: 
   title: Prediction of the COVID-19 Infectivity and the Sustainable Impact on Public Health under Deep Learning Algorithm
@@ -43,7 +43,7 @@ item:
 - certificate_url: 
   date_end: 
   date_start: "2019-06-01"
-  description: "author: Yuxiang Wang (released on EI)"
+  description: "Author: Yuxiang Wang (released on EI)"
   organization: "*IEEE ICRIS International Conference*"
   organization_url: 
   title: Academic Supervision and Risk Assessment Based on Moodle LMS Data
@@ -51,7 +51,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-05-01"
-  description: "author: Yuxiang Wang (released on ISTP/CPCI)"
+  description: "Author: Yuxiang Wang"
   organization: "*ICMMCT 2019 International Conference*"
   organization_url: 
   title: Prediction of PM2.5 Concentration in Chengdu Based on Improved BP Neural Network
@@ -59,11 +59,11 @@ item:
 - certificate_url: 
   date_end: 
   date_start: "2019-02-01"
-  description: "author: Yuxiang Wang (ISSN 1003-9767)"
+  description: "Author: Yuxiang Wang"
   organization: "*China Computer & Communication*"
   organization_url: 
   title: Development of Machine Dictionary for Natural language Processing
-  url: "https://d.wanfangdata.com.cn/periodical/csyj201902002"
+  url: "https://d.wanfangdata.com.cn/periodical/xxydn201915018"
 - certificate_url: 
   date_end: 
   date_start: "2019-04-12"
@@ -88,4 +88,12 @@ item:
   organization_url: 
   title: Jianzhisheng College Student Part-time Job System V1.0
   url: 
+- certificate_url: 
+  date_end: 
+  date_start: "2018-08-01"
+  description: "Author:Yuxiang Wang"
+  organization: "*PC Fan*"
+  organization_url: 
+  title: Handwriting Numeral Recognition Based on R Language
+  url: https://d.wanfangdata.com.cn/periodical/dnm201808209
 ---

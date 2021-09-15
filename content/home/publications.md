@@ -35,11 +35,11 @@ item:
 - certificate_url: 
   date_end: 
   date_start: "2021-04-20"
-  description: "author: Weiwei Wang; Jinghui Cai; Jiali Xu; Yuxiang Wang; Yulin Zou(submitted)"
+  description: "author: Weiwei Wang; Jinghui Cai; Jiali Xu; Yuxiang Wang; Yulin Zou"
   organization: "*Soft Computing(SOCO)*"
   organization_url: 
   title: Prediction of the COVID-19 Infectivity and the Sustainable Impact on Public Health under Deep Learning Algorithm
-  url:
+  url: "https://link.springer.com/article/10.1007/s00500-021-06142-0"
 - certificate_url: 
   date_end: 
   date_start: "2019-06-01"
@@ -63,7 +63,7 @@ item:
   organization: "*China Computer & Communication*"
   organization_url: 
   title: Development of Machine Dictionary for Natural language Processing
-  url: 
+  url: "https://d.wanfangdata.com.cn/periodical/csyj201902002"
 - certificate_url: 
   date_end: 
   date_start: "2019-04-12"

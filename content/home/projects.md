@@ -62,7 +62,7 @@ item:
 analysis, etc.) to analyze students’ scores, class times and failure rates for a university in Chongqing"
   organization: "NLP Lab at SWU, Supervisor: Li Li"
   organization_url: 
-  title: LMS Prototype of Student Performance Predication Model 
+  title: LMS Prototype of Student Performance Prediction Model 
   url: 
 - certificate_url: 
   date_end: "2018-05-01"

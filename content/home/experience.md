@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Full-time Work
+    company: Huawei Technologies Co., Ltd
+    company_url: https://e.huawei.com/en/products/computing/ascend
+    location: Chengdu, China
+    date_start: '2022-07-17'
+    date_end: 'present'
+    description: |2-
+        - Completed the design and implementation of some important features in AI Model Security System
+        - Designed and implemented the keys management modules in trusted execution environment (TEE) scenario
+        - Conducted security penetration testing on existing modules, finding multiple security vulnerabilities, and helped code security reinforcement
   - title: Internship
     company: Oracle Chengdu Branch
     company_url: https://www.oracle.com/index.html
